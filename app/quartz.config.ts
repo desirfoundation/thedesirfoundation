@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Desir Tech",
+    pageTitle: "The Desir Foundation",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
