@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "VT323",
+        header: "Cormorant Garamond",
         body: "VT323",
         code: "VT323",
       },
