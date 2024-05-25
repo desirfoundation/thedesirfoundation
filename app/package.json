@@ -1,15 +1,15 @@
 {
-  "name": "desirtech",
+  "name": "thedesirfoundation",
   "description": "",
   "private": true,
-  "version": "4.2.3",
+  "version": "1.0.0",
   "type": "module",
   "author": "desirtech <jeffrey@desirtech.pro>",
   "license": "MIT",
-  "homepage": "https://desirtech.pro",
+  "homepage": "https://desir.foundation",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/thedesirfoundation/thedesirfoundation.git"
   },
   "scripts": {
     "dev": "npx quartz build --serve",
